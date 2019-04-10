@@ -1,21 +1,22 @@
 ﻿<Properties StartupConfiguration="{380142A3-D253-401C-987D-479ADBCC5A6D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="snake/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="snake/Point.cs">
     <Files>
-      <File FileName="snake/Program.cs" Line="10" Column="21" />
+      <File FileName="snake/Program.cs" Line="12" Column="1" />
+      <File FileName="snake/Point.cs" Line="4" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="snake" expanded="True">
             <Node name="snake" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Point.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.snake FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.snake PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
