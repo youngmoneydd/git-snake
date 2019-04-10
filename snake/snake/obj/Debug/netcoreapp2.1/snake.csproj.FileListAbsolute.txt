@@ -1,0 +1,11 @@
+/Users/deyviddodevski/Desktop/develop/git-snake/snake/snake/bin/Debug/netcoreapp2.1/snake.deps.json
+/Users/deyviddodevski/Desktop/develop/git-snake/snake/snake/bin/Debug/netcoreapp2.1/snake.runtimeconfig.json
+/Users/deyviddodevski/Desktop/develop/git-snake/snake/snake/bin/Debug/netcoreapp2.1/snake.runtimeconfig.dev.json
+/Users/deyviddodevski/Desktop/develop/git-snake/snake/snake/bin/Debug/netcoreapp2.1/snake.dll
+/Users/deyviddodevski/Desktop/develop/git-snake/snake/snake/bin/Debug/netcoreapp2.1/snake.pdb
+/Users/deyviddodevski/Desktop/develop/git-snake/snake/snake/obj/Debug/netcoreapp2.1/snake.csprojAssemblyReference.cache
+/Users/deyviddodevski/Desktop/develop/git-snake/snake/snake/obj/Debug/netcoreapp2.1/snake.csproj.CoreCompileInputs.cache
+/Users/deyviddodevski/Desktop/develop/git-snake/snake/snake/obj/Debug/netcoreapp2.1/snake.AssemblyInfoInputs.cache
+/Users/deyviddodevski/Desktop/develop/git-snake/snake/snake/obj/Debug/netcoreapp2.1/snake.AssemblyInfo.cs
+/Users/deyviddodevski/Desktop/develop/git-snake/snake/snake/obj/Debug/netcoreapp2.1/snake.dll
+/Users/deyviddodevski/Desktop/develop/git-snake/snake/snake/obj/Debug/netcoreapp2.1/snake.pdb
